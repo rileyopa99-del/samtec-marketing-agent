@@ -1,0 +1,1908 @@
+{
+  "product_family_name": "Magnum RF",
+  "generated_at": "2026-06-30T14:11:00.126552+00:00",
+  "tool_version": "1.0",
+  "source_files": [
+    "0aaf456b-samtecmagnumrfebrochure.pdf",
+    "414f55d1-samtec_precision_rf_design_guide.pdf",
+    "0c3c87f6-samtecrfcatalog.pdf"
+  ],
+  "compliance_note": "Every entry in this knowledge object is derived from a direct text match in the listed source files. No facts have been inferred, summarized, or generated. Each item carries a citation to its source.",
+  "key_specs": {
+    "frequency": [
+      {
+        "excerpt": "up to 65 GHz supports low-",
+        "citation": "0aaf456b-samtecmagnumrfebrochure.pdf, p.1"
+      },
+      {
+        "excerpt": "Mode-free operation up to 65 GHz supports low-",
+        "citation": "0aaf456b-samtecmagnumrfebrochure.pdf, p.1"
+      },
+      {
+        "excerpt": "to 110 GHz High Frequency, Precision RF solutions for microwave and",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.2"
+      },
+      {
+        "excerpt": "18 GHz to 110 GHz",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.3"
+      },
+      {
+        "excerpt": "to 90 GHz",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.3"
+      },
+      {
+        "excerpt": "18 GHz & 26",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.3"
+      },
+      {
+        "excerpt": "5 GHz SMAs (Soldered)",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.3"
+      },
+      {
+        "excerpt": "6 GHz & 12G-SDI",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.3"
+      },
+      {
+        "excerpt": "18 GHz to 110 GHz • Interface Standards & Original Solutions • Full Mated Sets",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.4"
+      },
+      {
+        "excerpt": "to 90 GHz • Magnum RF® SMPM Ganged, Multi-Port Solutions",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.4"
+      },
+      {
+        "excerpt": "170 GHz)",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.5"
+      },
+      {
+        "excerpt": "110 GHz, 1",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.6"
+      },
+      {
+        "excerpt": "90 GHz, 1",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.6"
+      },
+      {
+        "excerpt": "65 GHz, 1",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.6"
+      },
+      {
+        "excerpt": "65 GHz, SMPM",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.6"
+      },
+      {
+        "excerpt": "50 GHz, 2",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.6"
+      },
+      {
+        "excerpt": "40 GHz, SMP",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.6"
+      },
+      {
+        "excerpt": "40 GHz, 2",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.7"
+      },
+      {
+        "excerpt": "34 GHz, 3",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.7"
+      },
+      {
+        "excerpt": "26.5 GHz, SMA",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.7"
+      },
+      {
+        "excerpt": "18 GHz, N Type",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.7"
+      },
+      {
+        "excerpt": "18 GHz, TNCA",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.7"
+      },
+      {
+        "excerpt": "110 GHz 90 GHz",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.7"
+      },
+      {
+        "excerpt": "65 GHz",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.7"
+      },
+      {
+        "excerpt": "50 GHz",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.7"
+      },
+      {
+        "excerpt": "40 GHz",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.7"
+      },
+      {
+        "excerpt": "34 GHz",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.7"
+      },
+      {
+        "excerpt": "34 GHz 18/26",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.7"
+      },
+      {
+        "excerpt": "5 GHz 65 GHz 65 GHz 40 GHz 18 GHz 18 GHz",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.7"
+      },
+      {
+        "excerpt": "43.5 GHz (LL043 Series)",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.8"
+      },
+      {
+        "excerpt": "18 GHz, 32 GHz, 43",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.8"
+      },
+      {
+        "excerpt": "5 GHz,",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.8"
+      },
+      {
+        "excerpt": "71 GHz, 95 GHz, 110 GHz",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.8"
+      },
+      {
+        "excerpt": "up to 90 GHz (E-band), while maintaining",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.12"
+      },
+      {
+        "excerpt": "60 GHz to 90 GHz, E-Band & 50 GHz to 75 GHz, V-Band",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.12"
+      },
+      {
+        "excerpt": "to 90 GHz)",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.12"
+      },
+      {
+        "excerpt": "to 75 GHz) WF15 Series: 3",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.12"
+      },
+      {
+        "excerpt": "90 GHz",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.13"
+      },
+      {
+        "excerpt": "70 GHz",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.13"
+      },
+      {
+        "excerpt": "70 GHz: REF-213864-01",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.13"
+      },
+      {
+        "excerpt": "50 GHz: REF-213497-01",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.13"
+      },
+      {
+        "excerpt": "up to 65 GHz supports",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.14"
+      },
+      {
+        "excerpt": "Mode-free operation up to 65 GHz supports",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.14"
+      },
+      {
+        "excerpt": "20 GHz options: edge mount or through-hole",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.17"
+      },
+      {
+        "excerpt": "40 GHz options: edge mount, through-hole, surface mount or",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.17"
+      },
+      {
+        "excerpt": "20 GHz",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.17"
+      },
+      {
+        "excerpt": "65 GHz options: edge mount, through-hole, surface mount or",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.17"
+      },
+      {
+        "excerpt": "to 110 GHz",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.18"
+      },
+      {
+        "excerpt": "34 GHz, SSMA, PRFS1 Series",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.19"
+      },
+      {
+        "excerpt": "40 GHz, SMP, PRF00 Series",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.19"
+      },
+      {
+        "excerpt": "5 GHz, SMA,",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.19"
+      },
+      {
+        "excerpt": "18 GHz, N Type, PRF06 Series",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.19"
+      },
+      {
+        "excerpt": "65 GHz, SMPM, PRFM0 Series",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.19"
+      },
+      {
+        "excerpt": "18 GHz, TNCA, PRF04 Series",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.19"
+      },
+      {
+        "excerpt": "90 GHz, 65 GHz, 50 GHz, 40 GHz",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.20"
+      },
+      {
+        "excerpt": "90 GHz, 50 Ohm • Solderless",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.20"
+      },
+      {
+        "excerpt": "65 GHz, 50 Ohm • Solderless",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.20"
+      },
+      {
+        "excerpt": "50 GHz, 50 Ohm • Solderless",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.20"
+      },
+      {
+        "excerpt": "40 GHz, 50 Ohm • Solderless",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.20"
+      },
+      {
+        "excerpt": "110 GHz, 65 GHz, 50 GHz, 40 GHz",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.21"
+      },
+      {
+        "excerpt": "110 GHz, 50 Ohm • Solderless",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.21"
+      },
+      {
+        "excerpt": "26.5 GHz and 18 GHz options available",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.21"
+      },
+      {
+        "excerpt": "110 GHz",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.22"
+      },
+      {
+        "excerpt": "110 GHz) solutions",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.22"
+      },
+      {
+        "excerpt": "8 GHz",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.24"
+      },
+      {
+        "excerpt": "50 GHz Bulls Eye® SI Evaluation Kit",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.24"
+      },
+      {
+        "excerpt": "70 GHz Bulls Eye® SI Evaluation Kit",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.24"
+      },
+      {
+        "excerpt": "DC to 10 GHz",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.27"
+      },
+      {
+        "excerpt": "TO 110 GHz) • STANDARD 50 Ω & 75 Ω (SUB-6 GHz & 12G-SDI) • TECH SUPPORT",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.1"
+      },
+      {
+        "excerpt": "18 GHz to 110 GHz)",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.2"
+      },
+      {
+        "excerpt": "6 GHz & 12G-SDI)",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.2"
+      },
+      {
+        "excerpt": "40 GHz, 50 GHz, 70 GHz & 90 GHz",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.2"
+      },
+      {
+        "excerpt": "up to 90 GHz (E-band)",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.2"
+      },
+      {
+        "excerpt": "6 GHz frequencies to 110 GHz",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.6"
+      },
+      {
+        "excerpt": "26.5 GHz",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.6"
+      },
+      {
+        "excerpt": "18 GHz",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.6"
+      },
+      {
+        "excerpt": "6 GHz",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.6"
+      },
+      {
+        "excerpt": "4 GHz",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.6"
+      },
+      {
+        "excerpt": "5 GHz",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.6"
+      },
+      {
+        "excerpt": "12 GHz",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.6"
+      },
+      {
+        "excerpt": "1 GHz",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.10"
+      },
+      {
+        "excerpt": "26 GHz",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.10"
+      },
+      {
+        "excerpt": "26.5 GHz) or 2",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.11"
+      },
+      {
+        "excerpt": "40 GHz)",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.11"
+      },
+      {
+        "excerpt": "DC to 90 GHz)",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.12"
+      },
+      {
+        "excerpt": "90 GHz to 110 GHz)",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.12"
+      },
+      {
+        "excerpt": "TO 65 GHz",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.14"
+      },
+      {
+        "excerpt": "TO 50 GHz",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.15"
+      },
+      {
+        "excerpt": "TO 40 GHz",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.16"
+      },
+      {
+        "excerpt": "TO 34 GHz",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.17"
+      },
+      {
+        "excerpt": "TO 26.5 GHz",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.18"
+      },
+      {
+        "excerpt": "DC to 26.5 GHz)",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.19"
+      },
+      {
+        "excerpt": "26.5 GHz to 50 GHz)",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.19"
+      },
+      {
+        "excerpt": "TO 18 GHz",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.24"
+      },
+      {
+        "excerpt": "DC to 14 GHz) (-06RP)",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.24"
+      },
+      {
+        "excerpt": "14 GHz to 18 GHz)",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.24"
+      },
+      {
+        "excerpt": "26.5 GHz to 40 GHz)",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.26"
+      },
+      {
+        "excerpt": "40 GHz to 65 GHz)",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.26"
+      },
+      {
+        "excerpt": "40 GHz to 50 GHz)",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.27"
+      },
+      {
+        "excerpt": "50 GHz to 67 GHz)",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.27"
+      },
+      {
+        "excerpt": "DC to 40 GHz)",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.27"
+      },
+      {
+        "excerpt": "70 GHz: REF-213864-01 50 GHz: REF-213497-01",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.28"
+      },
+      {
+        "excerpt": "90 GHz ASSEMBLIES",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.29"
+      },
+      {
+        "excerpt": "70 GHz ASSEMBLIES",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.30"
+      },
+      {
+        "excerpt": "70 GHz)",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.30"
+      },
+      {
+        "excerpt": "50 GHz & 40 GHz ASSEMBLIES",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.30"
+      },
+      {
+        "excerpt": "50 GHz)",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.30"
+      },
+      {
+        "excerpt": "up to 90 GHz (E-band), but with a",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.31"
+      },
+      {
+        "excerpt": "60 GHz to 90 GHz, E-band",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.31"
+      },
+      {
+        "excerpt": "to 75 GHz)",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.31"
+      },
+      {
+        "excerpt": "2 GHz",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.32"
+      },
+      {
+        "excerpt": "3 GHz",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.32"
+      },
+      {
+        "excerpt": "TO 6 GHz",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.33"
+      },
+      {
+        "excerpt": "TO 4 GHz",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.38"
+      },
+      {
+        "excerpt": "TO 12 GHz",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.40"
+      },
+      {
+        "excerpt": "90 GHz Bulls Eye® Assembly, Single or Double Row",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.47"
+      },
+      {
+        "excerpt": "70 GHz Bulls Eye® Assembly, Single or Double Row",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.47"
+      },
+      {
+        "excerpt": "50 GHz & 40 GHz Bulls Eye® Assembly, Double Row",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.47"
+      },
+      {
+        "excerpt": "43.5 GHz Nitrowave™ High-Performance µWave Cable",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.47"
+      }
+    ],
+    "impedance": [
+      {
+        "excerpt": "50 Ohm • Solderless",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.20"
+      },
+      {
+        "excerpt": "50 Ohm coplanar waveguide (CPW) transmission line and 6 layer PCB (Isola Tachyon)",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.29"
+      }
+    ],
+    "vswr": [
+      {
+        "excerpt": "VSWR = 1",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.8"
+      },
+      {
+        "excerpt": "VSWR as low as 1",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.10"
+      },
+      {
+        "excerpt": "VSWR and insertion loss",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.18"
+      },
+      {
+        "excerpt": "VSWR used AFR on the measurement from the reference plane of the",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.20"
+      }
+    ],
+    "insertion_loss": [
+      {
+        "excerpt": "INSERTION LOSS (dB/m)",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.8"
+      },
+      {
+        "excerpt": "Insertion Loss",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.9"
+      },
+      {
+        "excerpt": "Insertion Loss Performance",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.29"
+      }
+    ],
+    "return_loss": [
+      {
+        "excerpt": "return loss",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.24"
+      },
+      {
+        "excerpt": "return loss performance",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.11"
+      }
+    ],
+    "temperature": [
+      {
+        "excerpt": "-40 °C to +90 °C",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.32"
+      },
+      {
+        "excerpt": "-50 °C to +165 °C",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.32"
+      },
+      {
+        "excerpt": "-20 °C to +80 °C",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.32"
+      },
+      {
+        "excerpt": "-40 °C to +200 °C",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.32"
+      },
+      {
+        "excerpt": "-55 °C to +165 °C",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.32"
+      },
+      {
+        "excerpt": "-50 °C to +90 °C",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.32"
+      },
+      {
+        "excerpt": "-30 °C to +75 °C",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.32"
+      },
+      {
+        "excerpt": "-20 °C to +75 °C",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.32"
+      },
+      {
+        "excerpt": "-20 °C to +105 °C",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.32"
+      }
+    ],
+    "mating_cycles": [
+      {
+        "excerpt": "86 Mates With:",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.20"
+      }
+    ],
+    "ip_rating": [],
+    "interfaces": [
+      {
+        "excerpt": "SMPM CONNECTORS",
+        "citation": "0aaf456b-samtecmagnumrfebrochure.pdf, p.1"
+      },
+      {
+        "excerpt": "SMPM connector",
+        "citation": "0aaf456b-samtecmagnumrfebrochure.pdf, p.1"
+      },
+      {
+        "excerpt": "SMPM, SMA",
+        "citation": "0aaf456b-samtecmagnumrfebrochure.pdf, p.2"
+      },
+      {
+        "excerpt": "SMPM-EM",
+        "citation": "0aaf456b-samtecmagnumrfebrochure.pdf, p.2"
+      },
+      {
+        "excerpt": "2.92 mm, SMPM, SMA",
+        "citation": "0aaf456b-samtecmagnumrfebrochure.pdf, p.2"
+      },
+      {
+        "excerpt": "SMPM Ganged, Multi-Port Solutions",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.3"
+      },
+      {
+        "excerpt": "SMPM Board",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.5"
+      },
+      {
+        "excerpt": "SMP3/SMPS – 30%",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.5"
+      },
+      {
+        "excerpt": "SMP-B",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.6"
+      },
+      {
+        "excerpt": "SMP (-SM, -TH, -MT, -EM)",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.6"
+      },
+      {
+        "excerpt": "SMPM SMP",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.7"
+      },
+      {
+        "excerpt": "2.92 mm",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.7"
+      },
+      {
+        "excerpt": "2.92 mm and SMA",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.7"
+      },
+      {
+        "excerpt": "2.92 mm and",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.7"
+      },
+      {
+        "excerpt": "2.9286)",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.7"
+      },
+      {
+        "excerpt": "2.92 mm 3",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.7"
+      },
+      {
+        "excerpt": "SMPM, SMP, SMA, N Type, TNCA",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.9"
+      },
+      {
+        "excerpt": "2.92 mm, SMPM, SMP, SMA, N Type, TNCA",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.9"
+      },
+      {
+        "excerpt": "SMPM, SMP, 3",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.10"
+      },
+      {
+        "excerpt": "2.92 mm, SMA, SMPM, SMP, 3",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.10"
+      },
+      {
+        "excerpt": "SMPM, Ganged",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.11"
+      },
+      {
+        "excerpt": "SMPM (Magnum RF®)",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.11"
+      },
+      {
+        "excerpt": "SMP, SMPM",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.11"
+      },
+      {
+        "excerpt": "2.92 mm,",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.11"
+      },
+      {
+        "excerpt": "2.92 mm, SMA, SMP,",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.11"
+      },
+      {
+        "excerpt": "SMPM Push-On Connectors",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.16"
+      },
+      {
+        "excerpt": "SMPM with a solderless",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.16"
+      },
+      {
+        "excerpt": "SMPM SERIES",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.17"
+      },
+      {
+        "excerpt": "SMPM-ST-TH",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.17"
+      },
+      {
+        "excerpt": "SMPM-RA-TH",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.17"
+      },
+      {
+        "excerpt": "SMPM-SM,",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.17"
+      },
+      {
+        "excerpt": "SMPM-MT,",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.17"
+      },
+      {
+        "excerpt": "SMP & SMPM Push-On Connectors",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.17"
+      },
+      {
+        "excerpt": "SMP SERIES",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.17"
+      },
+      {
+        "excerpt": "SMP-EM3",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.17"
+      },
+      {
+        "excerpt": "SMP-TH2",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.17"
+      },
+      {
+        "excerpt": "SMP-EM",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.17"
+      },
+      {
+        "excerpt": "SMP-TH",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.17"
+      },
+      {
+        "excerpt": "SMP-SM,",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.17"
+      },
+      {
+        "excerpt": "SMP-MT,",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.17"
+      },
+      {
+        "excerpt": "SMPM-J-J-S-1",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.18"
+      },
+      {
+        "excerpt": "SMPM-J-S-1",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.18"
+      },
+      {
+        "excerpt": "SMPM-J-J-",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.18"
+      },
+      {
+        "excerpt": "SMPM-J-J-S-2",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.18"
+      },
+      {
+        "excerpt": "SMPM-J-S",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.18"
+      },
+      {
+        "excerpt": "SMPM Jack",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.18"
+      },
+      {
+        "excerpt": "SMPM-J-J-S-3",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.18"
+      },
+      {
+        "excerpt": "SMPM-J-J-S-4",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.18"
+      },
+      {
+        "excerpt": "SMPM-PX-S",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.18"
+      },
+      {
+        "excerpt": "SMPM Plug",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.18"
+      },
+      {
+        "excerpt": "2.92 mm to SMPM",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.18"
+      },
+      {
+        "excerpt": "2.92 mm Plug-to-SMPM Jack",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.18"
+      },
+      {
+        "excerpt": "2.92 mm Jack-to-SMPM Plug",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.18"
+      },
+      {
+        "excerpt": "2.92 mm Plug-to-SMPM Plug",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.18"
+      },
+      {
+        "excerpt": "SMPM, PRFM0 Series",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.19"
+      },
+      {
+        "excerpt": "SMP, PRF00 Series",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.19"
+      },
+      {
+        "excerpt": "2.92 mm, PRF92 Series",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.19"
+      },
+      {
+        "excerpt": "2.92 mm • 40 GHz, 50 Ohm • Solderless",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.20"
+      },
+      {
+        "excerpt": "2.92 mm, 292 Series - Stripline",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.20"
+      },
+      {
+        "excerpt": "2.92 mm, 292 Series, Microstrip",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.21"
+      },
+      {
+        "excerpt": "2.92 mm Shown",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.21"
+      },
+      {
+        "excerpt": "2.92 mm plug or jack RF end options",
+        "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.28"
+      },
+      {
+        "excerpt": "SMPM,",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.10"
+      },
+      {
+        "excerpt": "SMP, SMPM,",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.10"
+      },
+      {
+        "excerpt": "2.92 mm, SMA,",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.10"
+      },
+      {
+        "excerpt": "SMPM ganged solution (GPPC Series)",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.11"
+      },
+      {
+        "excerpt": "2.92 mm (40 GHz)",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.11"
+      },
+      {
+        "excerpt": "2.92 mm)",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.11"
+      },
+      {
+        "excerpt": "SMPM, SMP, SMA = RF047-A",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.12"
+      },
+      {
+        "excerpt": "SMPM, SMP, SMA = RF086",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.14"
+      },
+      {
+        "excerpt": "2.92 mm, SMPM, SMP, SMA = RF047-A",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.14"
+      },
+      {
+        "excerpt": "2.92 mm, SMPM, SMP, SMA = RF086",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.14"
+      },
+      {
+        "excerpt": "SMPM, SMP, SMA = RF23C",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.15"
+      },
+      {
+        "excerpt": "2.92 mm = RF085",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.15"
+      },
+      {
+        "excerpt": "2.92 mm, SMPM, SMP, SMA = RF23C",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.15"
+      },
+      {
+        "excerpt": "2.92 mm TO 40 GHz",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.16"
+      },
+      {
+        "excerpt": "2.92 mm Straight Jack",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.16"
+      },
+      {
+        "excerpt": "2.92 mm Straight Plug",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.16"
+      },
+      {
+        "excerpt": "2.92 mm cable connectors, visit www",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.16"
+      },
+      {
+        "excerpt": "SMPM, SMP = RF047-A",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.18"
+      },
+      {
+        "excerpt": "SMPM, SMP= RF086",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.18"
+      },
+      {
+        "excerpt": "SMPM, SMP = RF23C",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.18"
+      },
+      {
+        "excerpt": "SMP = RF25S, RF405",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.18"
+      },
+      {
+        "excerpt": "2.92 mm, SMPM, SMP = RF047-A",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.18"
+      },
+      {
+        "excerpt": "2.92 mm, SMPM, SMP = RF23C",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.18"
+      },
+      {
+        "excerpt": "SMPM TO 65 GHz",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.19"
+      },
+      {
+        "excerpt": "SMPM-SM, SMPM-TH,",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.19"
+      },
+      {
+        "excerpt": "SMPM-RA, SMPM-MT,",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.19"
+      },
+      {
+        "excerpt": "SMPM Straight Plug, Full Detent",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.19"
+      },
+      {
+        "excerpt": "SMPM Straight Jack",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.19"
+      },
+      {
+        "excerpt": "SMPM Right-angle Jack",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.19"
+      },
+      {
+        "excerpt": "SMPM Straight Bulkhead Jack",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.19"
+      },
+      {
+        "excerpt": "SMPM - GENDER - TYPE -",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.19"
+      },
+      {
+        "excerpt": "SMPM cable connectors, visit www",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.19"
+      },
+      {
+        "excerpt": "SMP, SMA = RF047-A",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.19"
+      },
+      {
+        "excerpt": "SMP, SMA = RF086",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.19"
+      },
+      {
+        "excerpt": "SMP, SMA = RF23C",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.19"
+      },
+      {
+        "excerpt": "2.92 mm, SMP, SMA = RF047-A",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.19"
+      },
+      {
+        "excerpt": "2.92 mm, SMP, SMA = RF086",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.19"
+      },
+      {
+        "excerpt": "2.92 mm, SMP, SMA = RF23C",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.19"
+      },
+      {
+        "excerpt": "SMPM Ganged",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.21"
+      },
+      {
+        "excerpt": "SMPM In-Series Bullet",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.21"
+      },
+      {
+        "excerpt": "SMPM, SMA = RF047-A",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.22"
+      },
+      {
+        "excerpt": "SMPM, SMA = RF086",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.22"
+      },
+      {
+        "excerpt": "SMPM, SMA = RF23C",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.22"
+      },
+      {
+        "excerpt": "SMP TO 40 GHz",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.22"
+      },
+      {
+        "excerpt": "SMP Straight Jack",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.22"
+      },
+      {
+        "excerpt": "SMP Right-angle Jack",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.22"
+      },
+      {
+        "excerpt": "SMP Bulkhead Jack, Full Detent",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.22"
+      },
+      {
+        "excerpt": "SMP Bulkhead Jack, Limited Detent",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.22"
+      },
+      {
+        "excerpt": "SMP Bulkhead Jack, Smooth Bore",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.22"
+      },
+      {
+        "excerpt": "SMP Bulkhead Jack, Catcher’s Mitt",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.22"
+      },
+      {
+        "excerpt": "SMP cable connectors, visit www",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.22"
+      },
+      {
+        "excerpt": "2.92 mm, SMPM, SMA = RF047-A",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.22"
+      },
+      {
+        "excerpt": "2.92 mm, SMPM, SMA = RF23C",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.22"
+      },
+      {
+        "excerpt": "SMP-TH, SMP-EM,",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.23"
+      },
+      {
+        "excerpt": "SMP-MT, SMP-SM",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.23"
+      },
+      {
+        "excerpt": "SMP -",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.23"
+      },
+      {
+        "excerpt": "SMP - J -",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.23"
+      },
+      {
+        "excerpt": "SMPM, GPPB, GPPC",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.26"
+      },
+      {
+        "excerpt": "SMPM - END 1",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.26"
+      },
+      {
+        "excerpt": "SMPM-J-S-1)",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.27"
+      },
+      {
+        "excerpt": "SMPM–J–S–1",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.27"
+      },
+      {
+        "excerpt": "SMPM–J–S",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.27"
+      },
+      {
+        "excerpt": "SMPM–PF–S",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.27"
+      },
+      {
+        "excerpt": "SMPTE 2082",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.40"
+      },
+      {
+        "excerpt": "SMPTE 2082 12G-SDI specifications",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.40"
+      },
+      {
+        "excerpt": "SMPTE 2082 12G-SDI",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.42"
+      },
+      {
+        "excerpt": "SMPM Plugs",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.47"
+      },
+      {
+        "excerpt": "SMPM Assembly,",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.47"
+      },
+      {
+        "excerpt": "SMPM Block, Board-to-Board",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.47"
+      },
+      {
+        "excerpt": "SMPM Cable Board Mates",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.47"
+      },
+      {
+        "excerpt": "SMPM Cable Connectors, 65 GHz",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.47"
+      },
+      {
+        "excerpt": "SMP Plugs & Bullet Adaptors",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.47"
+      },
+      {
+        "excerpt": "SMP Cable Connectors, 40 GHz",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.47"
+      },
+      {
+        "excerpt": "2.92 mm Compression Jacks",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.47"
+      },
+      {
+        "excerpt": "2.92 mm Cable Connectors, 40 GHz",
+        "citation": "0c3c87f6-samtecrfcatalog.pdf, p.47"
+      }
+    ]
+  },
+  "target_applications": [
+    {
+      "excerpt": "ideal for applications where space",
+      "citation": "0aaf456b-samtecmagnumrfebrochure.pdf, p.1"
+    },
+    {
+      "excerpt": "5G/6G Networking, Military/Defense, Radar",
+      "citation": "0aaf456b-samtecmagnumrfebrochure.pdf, p.1"
+    },
+    {
+      "excerpt": "Test & Measurement",
+      "citation": "0aaf456b-samtecmagnumrfebrochure.pdf, p.1"
+    },
+    {
+      "excerpt": "APPLICATIONS",
+      "citation": "0aaf456b-samtecmagnumrfebrochure.pdf, p.2"
+    },
+    {
+      "excerpt": "applications, including full cable assemblies, cable connectors and board level interconnects",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.2"
+    },
+    {
+      "excerpt": "mmWave applications, including full cable assemblies, cable connectors and board level interconnects",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.2"
+    },
+    {
+      "excerpt": "APPLICATION-SPECIFIC SOLUTIONS",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.3"
+    },
+    {
+      "excerpt": "Military/Aero, Satellite & Radar",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.3"
+    },
+    {
+      "excerpt": "5G/6G & Low-Latency Wireless Communication",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.3"
+    },
+    {
+      "excerpt": "aerospace, defense, datacom, computer/semiconductor, and instrumentation markets",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.8"
+    },
+    {
+      "excerpt": "application",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.9"
+    },
+    {
+      "excerpt": "applications that require even lower loss over longer",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.10"
+    },
+    {
+      "excerpt": "used in higher frequency applications at",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.10"
+    },
+    {
+      "excerpt": "application-specific customization with the",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.11"
+    },
+    {
+      "excerpt": "mmWave",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.12"
+    },
+    {
+      "excerpt": "ideal for SerDes characterization, clock/data recovery (CDR),",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.13"
+    },
+    {
+      "excerpt": "applications to 90 GHz",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.13"
+    },
+    {
+      "excerpt": "test & measurement solution, ideal for SerDes characterization, clock/data recovery (CDR),",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.13"
+    },
+    {
+      "excerpt": "mmWave radar systems, automated test equipment, next gen FR2 5G networks, and a variety of high-density",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.13"
+    },
+    {
+      "excerpt": "ideal for applications where space is limited and a high",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.14"
+    },
+    {
+      "excerpt": "5G/6G Networking, Military/Defense, Radar, and Test & Measurement",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.14"
+    },
+    {
+      "excerpt": "applications to ensure excellent performance through the system",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.18"
+    },
+    {
+      "excerpt": "Used in a lab setting",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.18"
+    },
+    {
+      "excerpt": "APPLICATION TOOLING • samtec",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.19"
+    },
+    {
+      "excerpt": "Application Tooling Group",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.19"
+    },
+    {
+      "excerpt": "Applications: high-performance test & measurement",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.20"
+    },
+    {
+      "excerpt": "ideal for military",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.22"
+    },
+    {
+      "excerpt": "military",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.22"
+    },
+    {
+      "excerpt": "aerospace applications",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.22"
+    },
+    {
+      "excerpt": "defense and space communities with",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.22"
+    },
+    {
+      "excerpt": "RADAR",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.23"
+    },
+    {
+      "excerpt": "Radar, Data Acquisition",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.23"
+    },
+    {
+      "excerpt": "applications typically require up to hundreds of individual RF connectors",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.24"
+    },
+    {
+      "excerpt": "Application specific design and",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.25"
+    },
+    {
+      "excerpt": "application/technical notes, published papers, webinars and presentations",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.25"
+    },
+    {
+      "excerpt": "applications, performance requirements and operating environments",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.25"
+    },
+    {
+      "excerpt": "Applications:",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.25"
+    },
+    {
+      "excerpt": "application-specific",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.25"
+    },
+    {
+      "excerpt": "APPLICATION-SPECIFIC RF SOLUTIONS",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.26"
+    },
+    {
+      "excerpt": "application-",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.26"
+    },
+    {
+      "excerpt": "application needs",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.26"
+    },
+    {
+      "excerpt": "aerospace",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.26"
+    },
+    {
+      "excerpt": "application, view",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.30"
+    },
+    {
+      "excerpt": "Application Support Group: asg@samtec",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.30"
+    },
+    {
+      "excerpt": "mmWave frequencies",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.6"
+    },
+    {
+      "excerpt": "Military, Aerospace, Satellite, Radar",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.6"
+    },
+    {
+      "excerpt": "5G/6G, Low Latency Wireless",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.6"
+    },
+    {
+      "excerpt": "Application:",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.7"
+    },
+    {
+      "excerpt": "applications: in-series and",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.7"
+    },
+    {
+      "excerpt": "aerospace, defense, datacom, computer/semiconductor, and",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.9"
+    },
+    {
+      "excerpt": "applications: SerDes characterization, clock/data recovery (CDR),",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.28"
+    },
+    {
+      "excerpt": "mmWave radar, automated test equipment, FR2 5G networks",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.28"
+    },
+    {
+      "excerpt": "mmWave Cable",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.47"
+    },
+    {
+      "excerpt": "mmWave Cable, 23 AWG, Copper Shield",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.47"
+    }
+  ],
+  "differentiators": [
+    {
+      "excerpt": "advantages of the push-on SMPM connector",
+      "citation": "0aaf456b-samtecmagnumrfebrochure.pdf, p.1"
+    },
+    {
+      "excerpt": "GANGED, MULTI-PORT, SMPM CONNECTORS",
+      "citation": "0aaf456b-samtecmagnumrfebrochure.pdf, p.1"
+    },
+    {
+      "excerpt": "Ganged, Multi-Port Interconnect System leverages the performance, density and",
+      "citation": "0aaf456b-samtecmagnumrfebrochure.pdf, p.1"
+    },
+    {
+      "excerpt": "blind mate advantages of the push-on SMPM connector",
+      "citation": "0aaf456b-samtecmagnumrfebrochure.pdf, p.1"
+    },
+    {
+      "excerpt": "GANGED, MULTI-PORT RF BLOCKS, CABLE ASSEMBLIES AND ADAPTORS",
+      "citation": "0aaf456b-samtecmagnumrfebrochure.pdf, p.1"
+    },
+    {
+      "excerpt": "Micro-miniature, high-density design",
+      "citation": "0aaf456b-samtecmagnumrfebrochure.pdf, p.1"
+    },
+    {
+      "excerpt": "push-on SMPM connector",
+      "citation": "0aaf456b-samtecmagnumrfebrochure.pdf, p.1"
+    },
+    {
+      "excerpt": "ganged or discrete",
+      "citation": "0aaf456b-samtecmagnumrfebrochure.pdf, p.2"
+    },
+    {
+      "excerpt": "blind mate applications",
+      "citation": "0aaf456b-samtecmagnumrfebrochure.pdf, p.2"
+    },
+    {
+      "excerpt": "Ganged, Multi-Port Solutions",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.3"
+    },
+    {
+      "excerpt": "Push-On Coupling, Single Channel)",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.3"
+    },
+    {
+      "excerpt": "Blind Mate & D-Band",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.5"
+    },
+    {
+      "excerpt": "Blind Mate RF",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.5"
+    },
+    {
+      "excerpt": "Ganged, Magnum RF®",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.6"
+    },
+    {
+      "excerpt": "Push-on coupling",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.6"
+    },
+    {
+      "excerpt": "Ganged",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.7"
+    },
+    {
+      "excerpt": "high-density",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.7"
+    },
+    {
+      "excerpt": "ultra-small form factor",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.12"
+    },
+    {
+      "excerpt": "high-density, space-saving design",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.13"
+    },
+    {
+      "excerpt": "Ganged Multi-Port SMPM",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.14"
+    },
+    {
+      "excerpt": "GANGED, MULTI-PORT RF BLOCKS,",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.14"
+    },
+    {
+      "excerpt": "Ganged, SMPM Push-On Connectors",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.16"
+    },
+    {
+      "excerpt": "Push-On Connectors",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.16"
+    },
+    {
+      "excerpt": "blind mate",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.17"
+    },
+    {
+      "excerpt": "Push-on design for quick, easy mating and blind mate",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.17"
+    },
+    {
+      "excerpt": "Blind mate, push-on coupling",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.18"
+    },
+    {
+      "excerpt": "High density",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.18"
+    },
+    {
+      "excerpt": "blind mate solution",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.22"
+    },
+    {
+      "excerpt": "high-density size 20 contacts; size 16",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.22"
+    },
+    {
+      "excerpt": "High-Density Open-Pin-Field Array, was selected as part of the VITA™ 42 XMC™ standard in 2002",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.23"
+    },
+    {
+      "excerpt": "High-density RF applications typically require up to hundreds of individual RF connectors",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.24"
+    },
+    {
+      "excerpt": "high-density array connectors",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.24"
+    },
+    {
+      "excerpt": "HIGH-DENSITY OPEN-PIN-FIELD ARRAYS",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.24"
+    },
+    {
+      "excerpt": "Benefits",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.26"
+    },
+    {
+      "excerpt": "snap-on",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.26"
+    },
+    {
+      "excerpt": "Ganged Micro-Mini System",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.27"
+    },
+    {
+      "excerpt": "HIGH-DENSITY CABLE ASSEMBLIES",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.28"
+    },
+    {
+      "excerpt": "High-Density External",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.29"
+    },
+    {
+      "excerpt": "High-Density On-Package Cable System",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.29"
+    },
+    {
+      "excerpt": "Ganged Cable-to-Board or Board-to-Board Applications",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.2"
+    },
+    {
+      "excerpt": "ganged solutions",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.7"
+    },
+    {
+      "excerpt": "push-on or bayonet coupling",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.7"
+    },
+    {
+      "excerpt": "Ganged SMPM",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.10"
+    },
+    {
+      "excerpt": "ganged solution (GPPC Series)",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.11"
+    },
+    {
+      "excerpt": "high-density, right-angle connector",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.11"
+    },
+    {
+      "excerpt": "Ganged Cable:",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.20"
+    },
+    {
+      "excerpt": "Ganged Block:",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.20"
+    },
+    {
+      "excerpt": "high-density, space-saving",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.28"
+    },
+    {
+      "excerpt": "HIGH-DENSITY & SPACE-SAVING",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.28"
+    },
+    {
+      "excerpt": "HIGH-DENSITY BNC TO 12 GHz",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.42"
+    },
+    {
+      "excerpt": "HIGH-DENSITY BNC",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.42"
+    },
+    {
+      "excerpt": "High-Density BNC Straight Plug",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.42"
+    },
+    {
+      "excerpt": "GANGED MICRO-MINI SYSTEMS",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.45"
+    },
+    {
+      "excerpt": "Ganged SMPM Assembly,",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.47"
+    },
+    {
+      "excerpt": "Ganged SMPM Block, Board-to-Board",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.47"
+    },
+    {
+      "excerpt": "Ganged SMPM Cable Board Mates",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.47"
+    },
+    {
+      "excerpt": "Ganged Micro-Mini RF Plugs, Cable",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.47"
+    },
+    {
+      "excerpt": "Ganged Hybrid Micro-Mini RF Cable",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.47"
+    },
+    {
+      "excerpt": "Ganged Micro-Mini RF Jacks, PCB Mount",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.47"
+    },
+    {
+      "excerpt": "Ganged Micro-Mini RF Plugs, PCB Mount",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.47"
+    },
+    {
+      "excerpt": "High-Density Cable Connectors",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.47"
+    },
+    {
+      "excerpt": "High-Density BNC Jacks",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.47"
+    }
+  ],
+  "compatible_products": [
+    {
+      "excerpt": "SMPM CONNECTORS",
+      "citation": "0aaf456b-samtecmagnumrfebrochure.pdf, p.1"
+    },
+    {
+      "excerpt": "SMPM connector",
+      "citation": "0aaf456b-samtecmagnumrfebrochure.pdf, p.1"
+    },
+    {
+      "excerpt": "SMPM, SMA",
+      "citation": "0aaf456b-samtecmagnumrfebrochure.pdf, p.2"
+    },
+    {
+      "excerpt": "SMPM-EM",
+      "citation": "0aaf456b-samtecmagnumrfebrochure.pdf, p.2"
+    },
+    {
+      "excerpt": "MRF® APPLICATIONS",
+      "citation": "0aaf456b-samtecmagnumrfebrochure.pdf, p.2"
+    },
+    {
+      "excerpt": "mRF for additional information",
+      "citation": "0aaf456b-samtecmagnumrfebrochure.pdf, p.2"
+    },
+    {
+      "excerpt": "SMPM Ganged, Multi-Port Solutions",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.3"
+    },
+    {
+      "excerpt": "SMPM Board",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.5"
+    },
+    {
+      "excerpt": "SMPM SMP",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.7"
+    },
+    {
+      "excerpt": "SMPM, SMP, SMA, N Type, TNCA",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.9"
+    },
+    {
+      "excerpt": "SMPM, SMP, 3",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.10"
+    },
+    {
+      "excerpt": "SMPM, Ganged",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.11"
+    },
+    {
+      "excerpt": "SMPM (Magnum RF®)",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.11"
+    },
+    {
+      "excerpt": "mates with WR12 standard",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.12"
+    },
+    {
+      "excerpt": "SMPM Push-On Connectors",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.16"
+    },
+    {
+      "excerpt": "SMPM with a solderless",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.16"
+    },
+    {
+      "excerpt": "SMPM SERIES",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.17"
+    },
+    {
+      "excerpt": "SMPM-ST-TH",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.17"
+    },
+    {
+      "excerpt": "SMPM-RA-TH",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.17"
+    },
+    {
+      "excerpt": "SMPM-SM,",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.17"
+    },
+    {
+      "excerpt": "SMPM-MT,",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.17"
+    },
+    {
+      "excerpt": "SMPM-J-J-S-1",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.18"
+    },
+    {
+      "excerpt": "SMPM-J-S-1",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.18"
+    },
+    {
+      "excerpt": "SMPM-J-J-",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.18"
+    },
+    {
+      "excerpt": "SMPM-J-J-S-2",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.18"
+    },
+    {
+      "excerpt": "SMPM-J-S",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.18"
+    },
+    {
+      "excerpt": "SMPM Jack",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.18"
+    },
+    {
+      "excerpt": "SMPM-J-J-S-3",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.18"
+    },
+    {
+      "excerpt": "SMPM-J-J-S-4",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.18"
+    },
+    {
+      "excerpt": "SMPM-PX-S",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.18"
+    },
+    {
+      "excerpt": "SMPM Plug",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.18"
+    },
+    {
+      "excerpt": "SMPM, PRFM0 Series",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.19"
+    },
+    {
+      "excerpt": "Mates with SEARAY™ and SEARAY™ 0",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.28"
+    },
+    {
+      "excerpt": "Mates with Q Series®",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.28"
+    },
+    {
+      "excerpt": "mates with Generate®",
+      "citation": "414f55d1-samtec_precision_rf_design_guide.pdf, p.28"
+    },
+    {
+      "excerpt": "SMPM,",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.10"
+    },
+    {
+      "excerpt": "SMPM ganged solution (GPPC Series)",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.11"
+    },
+    {
+      "excerpt": "SMPM, SMP, SMA = RF047-A",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.12"
+    },
+    {
+      "excerpt": "SMPM, SMP, SMA = RF086",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.14"
+    },
+    {
+      "excerpt": "SMPM, SMP, SMA = RF23C",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.15"
+    },
+    {
+      "excerpt": "SMPM, SMP = RF047-A",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.18"
+    },
+    {
+      "excerpt": "SMPM, SMP= RF086",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.18"
+    },
+    {
+      "excerpt": "SMPM, SMP = RF23C",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.18"
+    },
+    {
+      "excerpt": "SMPM TO 65 GHz",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.19"
+    },
+    {
+      "excerpt": "SMPM-SM, SMPM-TH,",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.19"
+    },
+    {
+      "excerpt": "SMPM-RA, SMPM-MT,",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.19"
+    },
+    {
+      "excerpt": "SMPM Straight Plug, Full Detent",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.19"
+    },
+    {
+      "excerpt": "SMPM Straight Jack",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.19"
+    },
+    {
+      "excerpt": "SMPM Right-angle Jack",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.19"
+    },
+    {
+      "excerpt": "SMPM Straight Bulkhead Jack",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.19"
+    },
+    {
+      "excerpt": "SMPM - GENDER - TYPE -",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.19"
+    },
+    {
+      "excerpt": "SMPM cable connectors, visit www",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.19"
+    },
+    {
+      "excerpt": "Mates With:",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.20"
+    },
+    {
+      "excerpt": "SMPM Ganged",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.21"
+    },
+    {
+      "excerpt": "SMPM In-Series Bullet",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.21"
+    },
+    {
+      "excerpt": "SMPM, SMA = RF047-A",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.22"
+    },
+    {
+      "excerpt": "SMPM, SMA = RF086",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.22"
+    },
+    {
+      "excerpt": "SMPM, SMA = RF23C",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.22"
+    },
+    {
+      "excerpt": "SMPM, GPPB, GPPC",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.26"
+    },
+    {
+      "excerpt": "SMPM - END 1",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.26"
+    },
+    {
+      "excerpt": "SMPM-J-S-1)",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.27"
+    },
+    {
+      "excerpt": "SMPM–J–S–1",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.27"
+    },
+    {
+      "excerpt": "SMPM–J–S",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.27"
+    },
+    {
+      "excerpt": "SMPM–PF–S",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.27"
+    },
+    {
+      "excerpt": "compatible with BDRA Series)",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.30"
+    },
+    {
+      "excerpt": "mates with RSP-122811-01",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.33"
+    },
+    {
+      "excerpt": "mates with RSP-122811-02",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.33"
+    },
+    {
+      "excerpt": "mates with RSP-122811-03",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.33"
+    },
+    {
+      "excerpt": "SMPM Plugs",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.47"
+    },
+    {
+      "excerpt": "SMPM Assembly,",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.47"
+    },
+    {
+      "excerpt": "SMPM Block, Board-to-Board",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.47"
+    },
+    {
+      "excerpt": "SMPM Cable Board Mates",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.47"
+    },
+    {
+      "excerpt": "SMPM Cable Connectors, 65 GHz",
+      "citation": "0c3c87f6-samtecrfcatalog.pdf, p.47"
+    }
+  ],
+  "gaps": [
+    "MISSING — IP ingress protection rating",
+    "NOT IN SOURCE MATERIAL — Pricing and lead time — not found in any source material",
+    "NOT IN SOURCE MATERIAL — Inventory / stock availability — not found in any source material",
+    "NOT IN SOURCE MATERIAL — Customer case studies or reference designs — not found in any source material",
+    "NOT IN SOURCE MATERIAL — Certifications (MIL-SPEC, RoHS, REACH, etc.) — not found in any source material",
+    "NOT IN SOURCE MATERIAL — Packaging / tape-and-reel options — not found in any source material"
+  ]
+}
